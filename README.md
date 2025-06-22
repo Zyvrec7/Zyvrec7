@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on StalematePQR (chess engine)
 - 🌱 I’m currently learning PyTorch
+- 📑 Also doing translates from English to Hungarian
 - 💬 Ask me about anything, and I'll try to answer
-- 📫 How to reach me: [zyvrec.](https://discordapp.com/users/1140664355831173210) @ Discord, [Zyvrec](https://x.com/Zyvrec) @ X / Twitter
+- 📫 How to reach me: [zyvrec.](https://discordapp.com/users/1140664355831173210) @ Discord (I'll probably respond faster here), [Zyvrec](https://x.com/Zyvrec) @ X / Twitter
 - 😄 Pronouns: He/Him
